@@ -1,0 +1,25 @@
+h1{
+    background-color: rgb(215, 215, 230);
+    margin-bottom: 50px;
+    margin-left: -150px;
+    margin-right:-120px ;
+  }
+  
+  .titre{
+    margin-left: 40%; 
+    margin-bottom: 5%;
+    margin-top: 2%; 
+    width: 25%;
+  }
+  img{
+    font-size: 15px;
+    width: 150px;
+  }
+.bouton2{
+  margin-left: 150px;
+}
+
+#formulaire{
+  margin-bottom: 100px;
+  margin-top:100px ;
+}

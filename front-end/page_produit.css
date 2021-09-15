@@ -1,0 +1,31 @@
+h1{
+  background-color: rgb(215, 215, 230);
+  margin-bottom: 50px;
+  margin-left: -150px;
+  margin-right:-119px ;
+  }
+  
+.titre{
+  margin-left: 40%; 
+  margin-bottom: 5%;
+  margin-top: 2%; 
+  width: 25%;
+}
+
+i{
+  position: absolute;
+  margin-left: 20%;
+  margin-top: 7%;
+}
+.block{
+ margin-left: 5%;
+}
+img{
+  width: 50%;
+}
+#bouton{
+  margin-top: 2%;
+  margin-left: 5%;
+  cursor: pointer;
+
+}
